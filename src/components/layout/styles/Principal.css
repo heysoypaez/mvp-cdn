@@ -2,6 +2,9 @@
 	display: grid;
 	grid-template-columns: repeat(6, 1fr);	
 	grid-gap: 10px;
+	padding-right: 3%;
+	padding-left: 2%;
+	align-items: center;
 }
 
 .principal-section__item-1 ul {
@@ -33,9 +36,9 @@
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
 		background-position: center;	
+		background-image: url("https://www.chicureohoy.cl/wp-content/uploads/2020/01/charla.png");
 		max-width: 100%;
-		padding: 5% 5%;
-		background-image: url("../../images/estudiantes-en-pareja.png");
+		padding: 8% 3%;
 	}
 
 	.principal-section__item-1__title {
@@ -60,14 +63,23 @@
 		grid-gap: 10px;
 		align-items: end;
 		width: 100%;
-		background-size: 100% 50%;
 		max-width: 100%;
-		background-position: top;
-		background-repeat: no-repeat;
+
 		padding-top: 20px;
-		background-image: url("../../images/estudiantes-en-pareja.png");
+
 	}	
 
+	.principal-section__item-1 {
+		background-size: 100% 100%;
+		background-position: top;
+		background-repeat: no-repeat;
+		background-image: url("https://www.chicureohoy.cl/wp-content/uploads/2020/01/charla.png");
+		padding: 5% 0;
+	}
+
+	.principal-section__item-1 h1 {
+		padding-top: 5%;
+	}
 	.principal-section__item-1 ul {
 		padding: 30px 30px;
 	}

@@ -1,7 +1,7 @@
 
 import React from "react";
 import "./styles/CallToAction.css";
-import PropTypes from "prop-types"
+import PropTypes from "prop-types";
 
 function CallToAction({title, linkTo}) {
 	
@@ -11,7 +11,7 @@ function CallToAction({title, linkTo}) {
 				{title}
 			</a>
 		</section>
-	)
+	);
 }
 
 export default CallToAction;
@@ -19,6 +19,6 @@ export default CallToAction;
 
 
 CallToAction.defaultProps = {
-  title: `Más información`,
-  linkTo: `#mas-info`
-}
+	title: "Más información",
+	linkTo: "#mas-info"
+};

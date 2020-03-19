@@ -15,7 +15,7 @@ function OurTeachers(props) {
 			</section>
 
 		</section>
-	)
+	);
 }
 
 export default OurTeachers;
