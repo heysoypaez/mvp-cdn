@@ -1,4 +1,4 @@
-export {default as Header } from "./Header.js"
+export {default as Header } from "./Header.js";
 export {default as HowWeDo } from "./HowWeDo.js";
 export {default as Principal } from "./Principal.js";
 export {default as AboutUs } from "./AboutUs.js";

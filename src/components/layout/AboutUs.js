@@ -20,7 +20,7 @@ function AboutUs(props) {
 				<img src="./../images/img/equipo-en-oficina-smooth-talkers.jpg" width="100%" />
 			</section>
 		</section>
-	)
+	);
 }
 
 export default AboutUs;

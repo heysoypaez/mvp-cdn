@@ -14,7 +14,7 @@ function WhatsappButton(props) {
 				</a>
 			</figure>
 		</section>
-	)
+	);
 }
 
 export default WhatsappButton;

@@ -18,7 +18,7 @@ function TestYourLevel(props) {
 			 		<img src="../images/img/niveles-de-idioma.png" alt="test-your-level" />
 			 </section> 
 		</section>
-	)
+	);
 }
 
 export default TestYourLevel;

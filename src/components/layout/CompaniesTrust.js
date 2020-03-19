@@ -25,7 +25,7 @@ function CompaniesTrust(props) {
 
 			</section>
 		</section>
-	)
+	);
 }
 
 export default CompaniesTrust;

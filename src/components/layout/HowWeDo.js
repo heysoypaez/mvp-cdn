@@ -20,7 +20,7 @@ function HowWeDo(props) {
 				<p>Al guardar tu cupo, usaremos tus datos (nivel, disponibilidad, objetivos e intereses) y buscaremos en nuestra base de datos tu class match ideal para que compartas tus clases y ahorres entre 40 y 60% en tus clases de inglés o portugués personalizadas</p>
 			</section>
 		</section>
-	)
+	);
 }
 
 export default HowWeDo;
